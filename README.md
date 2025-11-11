@@ -1,4 +1,4 @@
 # bookbot
 
-BookBot is my first [boot.dev](http://www.boot.dev) project!
+BookBot is my first [Boot.dev](http://www.boot.dev) project!
 
